@@ -1,4 +1,4 @@
-# :handshake: Hello! My name is Ntwari Egide I live in Rwanda
+# :handshake: Hello! My name is Ntwari Egide
 
 ## I am a full-stack software engineer, certified scrum master, JavaScript Open source developer, co-founder of Yombi
 ### About me
