@@ -1,6 +1,6 @@
 # :handshake: Hello! My name is Ntwari Egide
 
-## I am a full-stack software engineer, certified scrum master, JavaScript Open source developer, co-founder of Yombi
+## I am a full-stack software engineer, certified scrum master, JavaScript Open source developer, co-founder of ***Yombi Labs Ltd***
 ### About me
 I am a software engineer willing to be one of IT entrepreneurs , I am expert in building front end web apps using JavaScript - React Js,Vuejs, Angular js , Back end development using Java - Spring Boot and Jhipster , Php especially Laravel intergration with Vuejs , javaScript - Nodejs,Nest Js,Kafka Js
 
