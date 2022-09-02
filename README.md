@@ -1,4 +1,4 @@
-# :handshake: Hello! My name is Egide NTWARI
+# :handshake: Meet Egide NTWARI
 
 ## I am a full-stack software engineer, certified scrum master, JavaScript Open source developer
 ### About me
