@@ -1,8 +1,8 @@
 # :handshake: Hello! My name is Egide NTWARI
 
-## I am a full-stack software engineer, certified scrum master, JavaScript Open source developer, Founder at Yombi Labs Ltd
+## I am a full-stack software engineer, certified scrum master, JavaScript Open source developer
 ### About me
-Meet Ntwari Egide, a full-stack software engineer who is skilled in working in small, mid-sized, and big Groups in remote, onsite, and hybrid environments. 
+Meet Egide NTWARI, a full-stack software engineer who is skilled in working in small, mid-sized, and big Groups in remote, onsite, and hybrid environments. 
 
 He has been coding for 4+ years in building Web and mobile applications in Javascript and Java, and UI&UX designing using Adobe XD and Figma.
 
