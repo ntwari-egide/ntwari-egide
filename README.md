@@ -4,8 +4,6 @@
 ### About me
 Meet Egide NTWARI, a full-stack software engineer who is skilled in working in small, mid-sized, and big Groups in remote, onsite, and hybrid environments. 
 
-He has been coding for 4+ years in building Web and mobile applications in Javascript and Java, and UI&UX designing using Adobe XD and Figma.
-
 In addition, he is skilled practically in DevOps, most specifically deployment, containerization with Docker, unit test, integration test, automated test, and using popular tools to connect development teams like Circle ci, Gitlab actions, and Github Actions, Turbo repo in monorepo concept implementation.
 
 In fact, He is able to be part of any technical department including but not limited to Backend, Frontend, UI/UX Design, and DevOps.
